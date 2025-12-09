@@ -1,6 +1,5 @@
 import { motion, MotionProps } from 'framer-motion'
 import { ReactNode } from 'react'
-import { Variants } from 'framer-motion'
 import { createStaggerContainer, ANIMATION_CONFIG } from '@/lib/animations'
 
 interface StaggerContainerProps extends Omit<MotionProps, 'variants' | 'initial' | 'animate'> {

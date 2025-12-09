@@ -1,6 +1,6 @@
 import { RouteObject } from 'react-router-dom'
 
-export interface AppRoute extends RouteObject {
+export type AppRoute = RouteObject & {
   path: string
   name?: string
   protected?: boolean

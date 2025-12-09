@@ -1,7 +1,7 @@
 import { motion, MotionProps } from 'framer-motion'
 import { ReactNode } from 'react'
 import { Variants } from 'framer-motion'
-import { fadeInUp, ANIMATION_CONFIG } from '@/lib/animations'
+import { fadeInUp } from '@/lib/animations'
 
 interface AnimatedItemProps extends Omit<MotionProps, 'variants'> {
   children: ReactNode
@@ -23,13 +23,17 @@ export function AnimatedItem({
   const customVariants = delay
     ? {
         ...variants,
-        visible: {
-          ...variants.visible,
-          transition: {
-            ...variants.visible.transition,
-            delay,
-          },
-        },
+        visible: typeof variants.visible === 'object' && variants.visible !== null
+          ? {
+              ...variants.visible,
+              transition: {
+                ...('transition' in variants.visible && typeof variants.visible.transition === 'object'
+                  ? variants.visible.transition
+                  : {}),
+                delay,
+              },
+            }
+          : variants.visible,
       }
     : variants
 
