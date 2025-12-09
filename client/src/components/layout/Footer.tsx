@@ -45,7 +45,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  to={`${ROUTES.PRODUCTS}?brand=apple-copy`}
+                  to={`${ROUTES.PRODUCTS}?brand=apple`}
                   className="text-gray-300 active:text-white transition-colors flex items-center gap-2 group touch-manipulation min-h-[32px]"
                 >
                   <span className="w-1.5 h-1.5 rounded-full bg-white/0 group-active:bg-white transition-colors flex-shrink-0" />

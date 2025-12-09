@@ -1,0 +1,2118 @@
+{
+  "source_url": "https://www.layers.shop/products/build-your-skin",
+  "total_images_found": 277,
+  "phone_images_count": 20,
+  "design_images_count": 243,
+  "other_images_count": 9,
+  "images_downloaded": 255,
+  "brands_models": {
+    "brands": [
+      {
+        "value": "apple",
+        "text": "Apple"
+      },
+      {
+        "value": "google",
+        "text": "Google"
+      },
+      {
+        "value": "samsung",
+        "text": "Samsung"
+      },
+      {
+        "value": "nothing",
+        "text": "Nothing"
+      },
+      {
+        "value": "oneplus",
+        "text": "OnePlus"
+      },
+      {
+        "value": "vivo",
+        "text": "Vivo"
+      },
+      {
+        "value": "oppo",
+        "text": "Oppo"
+      },
+      {
+        "value": "poco",
+        "text": "Poco"
+      },
+      {
+        "value": "realme",
+        "text": "Realme"
+      },
+      {
+        "value": "iqoo",
+        "text": "iQOO"
+      },
+      {
+        "value": "xiaomi",
+        "text": "Xiaomi"
+      },
+      {
+        "value": "asus",
+        "text": "Asus"
+      },
+      {
+        "value": "techno",
+        "text": "Techno"
+      },
+      {
+        "value": "motorola",
+        "text": "Motorola"
+      }
+    ],
+    "models": {
+      "unknown": [
+        {
+          "value": "-1",
+          "text": "Select Model"
+        }
+      ]
+    }
+  },
+  "images": [
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/17_series_banner_mobile_e670357a-8a15-4807-99b5-bba42853ba86.png?v=1759300487",
+      "original_url": "https://www.layers.shop/cdn/shop/files/17_series_banner_mobile_e670357a-8a15-4807-99b5-bba42853ba86.png?v=1759300487&width=3840",
+      "alt": "",
+      "title": "",
+      "filepath": "scraped_images/17_series_banner_mobile_e670357a-8a15-4807-99b5-bba42853ba86.png",
+      "filename": "17_series_banner_mobile_e670357a-8a15-4807-99b5-bba42853ba86.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png?v=1762420936&width=1946",
+      "alt": "Slow Summer",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png?v=1754470762&width=1946",
+      "alt": "Next Gen Boi",
+      "title": "",
+      "filepath": "scraped_images/iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png",
+      "filename": "iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg?v=1762420936&width=1946",
+      "alt": "90s Kid",
+      "title": "",
+      "filepath": "scraped_images/iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg",
+      "filename": "iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png?v=1762420936&width=416",
+      "alt": "Slow Summer",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png?v=1754470762&width=416",
+      "alt": "Next Gen Boi",
+      "title": "",
+      "filepath": "scraped_images/iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png",
+      "filename": "iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg?v=1762420936&width=416",
+      "alt": "90s Kid",
+      "title": "",
+      "filepath": "scraped_images/iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg",
+      "filename": "iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png?v=1754470762",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png",
+      "filename": "iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png?v=1754470762",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png",
+      "filename": "iPhone_15_Pro_Next_Gen_Boi_f458ec5f-3252-4cf0-b3e6-d04a62816738.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg",
+      "filename": "iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg",
+      "filename": "iPhone_15_Pro_90s_Kid_cb234048-7096-4b1a-a745-5bac3388aa25.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/zero-glue.webp?v=1724932539",
+      "original_url": "https://www.layers.shop/cdn/shop/files/zero-glue.webp?v=1724932539&width=832",
+      "alt": "skin-detail_image",
+      "title": "",
+      "filepath": "scraped_images/zero-glue.webp",
+      "filename": "zero-glue.webp"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/ultra-thin.webp?v=1724933560",
+      "original_url": "https://www.layers.shop/cdn/shop/files/ultra-thin.webp?v=1724933560&width=832",
+      "alt": "skin-detail_image",
+      "title": "",
+      "filepath": "scraped_images/ultra-thin.webp",
+      "filename": "ultra-thin.webp"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/3m-skin.webp?v=1724933798",
+      "original_url": "https://www.layers.shop/cdn/shop/files/3m-skin.webp?v=1724933798&width=832",
+      "alt": "skin-detail_image",
+      "title": "",
+      "filepath": "scraped_images/3m-skin.webp",
+      "filename": "3m-skin.webp"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/feature_photo_4.webp?v=1724933974",
+      "original_url": "https://www.layers.shop/cdn/shop/files/feature_photo_4.webp?v=1724933974&width=832",
+      "alt": "skin-detail_image",
+      "title": "",
+      "filepath": "scraped_images/feature_photo_4.webp",
+      "filename": "feature_photo_4.webp"
+    },
+    {
+      "url": "https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-1LFS8V779H&cid=233524806.1765214427&gtm=45je5c40v893450434z89120412729za200zb9120412729zd9120412729&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391252~115583767~115938466~115938468~116184927~116184929~116217636~116217638~116251938~116251940~116427528~116474636&z=2147251033",
+      "original_url": "https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-1LFS8V779H&cid=233524806.1765214427&gtm=45je5c40v893450434z89120412729za200zb9120412729zd9120412729&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391252~115583767~115938466~115938468~116184927~116184929~116217636~116217638~116251938~116251940~116427528~116474636&z=2147251033",
+      "alt": "",
+      "title": "",
+      "filepath": "scraped_images/ga-audiences.jpg",
+      "filename": "ga-audiences.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png?v=1762420936&width=1946",
+      "alt": "Latte Bloom",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png?v=1762420936&width=1946",
+      "alt": "Lilac Trip",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png?v=1762420936&width=1946",
+      "alt": "Espresso Bloom",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png?v=1762420936&width=1946",
+      "alt": "Mint Breeze",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png?v=1762420936&width=1946",
+      "alt": "Coastal Mode",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png?v=1762420936&width=1946",
+      "alt": "Split Core",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Candy_Console.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Candy_Console.png?v=1750964635&width=1946",
+      "alt": "Candy Console",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Candy_Console.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Candy_Console.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png?v=1762420936&width=1946",
+      "alt": "Mod Station",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png",
+      "filename": "iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png?v=1762419900",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png?v=1762419900&width=1946",
+      "alt": "Heat Sink",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png?v=1762420936&width=1946",
+      "alt": "Aqua Bolt",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png?v=1750964635&width=1946",
+      "alt": "Frost Rover",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover.png?v=1750964635&width=1946",
+      "alt": "Titan Rise",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Frost_Rover.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Frost_Rover.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png?v=1762420936&width=1946",
+      "alt": "Flashlane",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png?v=1762420936&width=1946",
+      "alt": "Nitron",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png?v=1762420936&width=1946",
+      "alt": "Silver Galaxy",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png?v=1760618568",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png?v=1760618568&width=1946",
+      "alt": "Vibe vortex",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png?v=1762420936&width=1946",
+      "alt": "Chaotic Hour",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png?v=1754470762&width=1946",
+      "alt": "Urban Mirage",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png",
+      "filename": "iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Redline_Racer.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Redline_Racer.png?v=1750964635&width=1946",
+      "alt": "Redline Racer",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Redline_Racer.png",
+      "filename": "iPhone_14_Pro_Redline_Racer.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png?v=1762420936&width=1946",
+      "alt": "Celestial Tide",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png",
+      "filename": "iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png?v=1762420936&width=1946",
+      "alt": "Molten Silver",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png",
+      "filename": "iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png?v=1762420936&width=1946",
+      "alt": "Ring Storm",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png",
+      "filename": "iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png?v=1754470762&width=1946",
+      "alt": "Rouge Rider",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png",
+      "filename": "iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png?v=1760618568",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png?v=1760618568&width=1946",
+      "alt": "Cosmic Power",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png",
+      "filename": "iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png?v=1762420936&width=1946",
+      "alt": "Devil's Mushroom",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png",
+      "filename": "iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png?v=1762420936&width=1946",
+      "alt": "Fire Warrior",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png",
+      "filename": "iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg?v=1762420936&width=1946",
+      "alt": "Cyberhud",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg",
+      "filename": "iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/Phone_15_Pro_Champions.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/Phone_15_Pro_Champions.png?v=1750964635&width=1946",
+      "alt": "Champions",
+      "title": "",
+      "filepath": "scraped_images/Phone_15_Pro_Champions.png",
+      "filename": "Phone_15_Pro_Champions.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png?v=1760618553",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png?v=1760618553&width=1946",
+      "alt": "Boundless Blue",
+      "title": "",
+      "filepath": "scraped_images/iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png",
+      "filename": "iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-magma--back_1.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-magma--back_1.jpg?v=1762420936&width=1946",
+      "alt": "Magma",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-magma--back_1.jpg",
+      "filename": "iphone-13-pro-max-magma--back_1.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg?v=1762420936&width=1946",
+      "alt": "Chaos",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg",
+      "filename": "iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg?v=1762420936&width=1946",
+      "alt": "Space Blueprint",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg",
+      "filename": "iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png?v=1762420936&width=1946",
+      "alt": "Canopy Cascade",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png",
+      "filename": "iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg?v=1762420936&width=1946",
+      "alt": "Cybermind",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg",
+      "filename": "iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg?v=1762420936&width=1946",
+      "alt": "Concrete Rock",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg",
+      "filename": "iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png?v=1754470762&width=1946",
+      "alt": "Cricket Crest",
+      "title": "",
+      "filepath": "scraped_images/iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png",
+      "filename": "iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png?v=1762420936&width=1946",
+      "alt": "Cybernetic Charge",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png",
+      "filename": "iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/products/iphone-14-pro-purple-river--back.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/products/iphone-14-pro-purple-river--back.jpg?v=1762420936&width=1946",
+      "alt": "Purple River",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-purple-river--back.jpg",
+      "filename": "iphone-14-pro-purple-river--back.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg?v=1762420936&width=1946",
+      "alt": "Cultivate Kindnes",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg",
+      "filename": "iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGameboi.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGameboi.png?v=1762420936&width=1946",
+      "alt": "Gameboi",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProGameboi.png",
+      "filename": "iPhone14ProGameboi.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp?v=1762420936&width=1946",
+      "alt": "Lava Camo",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp",
+      "filename": "iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png?v=1762420936&width=1946",
+      "alt": "Estuary",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png",
+      "filename": "iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Dancing_Wind.webp?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Dancing_Wind.webp?v=1762420936&width=1946",
+      "alt": "Dancing Wind",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Dancing_Wind.webp",
+      "filename": "iPhone_14_Pro_Dancing_Wind.webp"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png?v=1762420936&width=1946",
+      "alt": "Vector Velocity",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png",
+      "filename": "iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png?v=1762420936&width=1946",
+      "alt": "Quantum Weave",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png",
+      "filename": "iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png?v=1762420936&width=1946",
+      "alt": "Cyber Sapphire",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png",
+      "filename": "iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png?v=1762420936&width=1946",
+      "alt": "Vacation",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png",
+      "filename": "iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png?v=1762420936&width=1946",
+      "alt": "Untethered",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png",
+      "filename": "iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg?v=1762420936&width=1946",
+      "alt": "Before Sunset",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg",
+      "filename": "iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg?v=1762420936&width=1946",
+      "alt": "Shikara",
+      "title": "",
+      "filepath": "scraped_images/iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg",
+      "filename": "iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/products/iPhone_14_Pro_Mountain_Pulse.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/products/iPhone_14_Pro_Mountain_Pulse.jpg?v=1762420936&width=1946",
+      "alt": "Mountain Pulse",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Mountain_Pulse.jpg",
+      "filename": "iPhone_14_Pro_Mountain_Pulse.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProShutterbug.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProShutterbug.png?v=1762420936&width=1946",
+      "alt": "Shutter bug",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProShutterbug.png",
+      "filename": "iPhone14ProShutterbug.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProSickBeat.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProSickBeat.png?v=1762420936&width=1946",
+      "alt": "Sick Beat",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProSickBeat.png",
+      "filename": "iPhone14ProSickBeat.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProEyeoftheSun.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProEyeoftheSun.png?v=1762420936&width=1946",
+      "alt": "Eye of the Sun",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProEyeoftheSun.png",
+      "filename": "iPhone14ProEyeoftheSun.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGhosted.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGhosted.png?v=1762420936&width=1946",
+      "alt": "Ghosted",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProGhosted.png",
+      "filename": "iPhone14ProGhosted.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProBaadshah.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProBaadshah.png?v=1762420936&width=1946",
+      "alt": "Baadshah",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProBaadshah.png",
+      "filename": "iPhone14ProBaadshah.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg?v=1762420936&width=1946",
+      "alt": "Forest's Whisper",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg",
+      "filename": "iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg?v=1762420936&width=1946",
+      "alt": "Machina Hud",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg",
+      "filename": "iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProHudOG.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProHudOG.png?v=1762420936&width=1946",
+      "alt": "HudOG",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProHudOG.png",
+      "filename": "iPhone14ProHudOG.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png?v=1762420936&width=416",
+      "alt": "Latte Bloom",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png?v=1762420936&width=416",
+      "alt": "Lilac Trip",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png?v=1762420936&width=416",
+      "alt": "Espresso Bloom",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png?v=1762420936&width=416",
+      "alt": "Mint Breeze",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png?v=1762420936&width=416",
+      "alt": "Coastal Mode",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png?v=1762420936&width=416",
+      "alt": "Split Core",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Candy_Console.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Candy_Console.png?v=1750964635&width=416",
+      "alt": "Candy Console",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Candy_Console.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Candy_Console.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png?v=1762420936&width=416",
+      "alt": "Mod Station",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png",
+      "filename": "iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png?v=1762419900",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png?v=1762419900&width=416",
+      "alt": "Heat Sink",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png?v=1762420936&width=416",
+      "alt": "Aqua Bolt",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png?v=1750964635&width=416",
+      "alt": "Frost Rover",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover.png?v=1750964635&width=416",
+      "alt": "Titan Rise",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Frost_Rover.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Frost_Rover.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png?v=1762420936&width=416",
+      "alt": "Flashlane",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png?v=1762420936&width=416",
+      "alt": "Nitron",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png?v=1762420936&width=416",
+      "alt": "Silver Galaxy",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Sliver_Galaxy_f186be4d-dd84-4342-9676-67770dbc7f95.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png?v=1760618568",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png?v=1760618568&width=416",
+      "alt": "Vibe vortex",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png?v=1762420936&width=416",
+      "alt": "Chaotic Hour",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png?v=1754470762&width=416",
+      "alt": "Urban Mirage",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png",
+      "filename": "iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Redline_Racer.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Redline_Racer.png?v=1750964635&width=416",
+      "alt": "Redline Racer",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Redline_Racer.png",
+      "filename": "iPhone_14_Pro_Redline_Racer.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png?v=1762420936&width=416",
+      "alt": "Celestial Tide",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png",
+      "filename": "iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png?v=1762420936&width=416",
+      "alt": "Molten Silver",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png",
+      "filename": "iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png?v=1762420936&width=416",
+      "alt": "Ring Storm",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png",
+      "filename": "iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png?v=1754470762&width=416",
+      "alt": "Rouge Rider",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png",
+      "filename": "iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png?v=1760618568",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png?v=1760618568&width=416",
+      "alt": "Cosmic Power",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png",
+      "filename": "iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png?v=1762420936&width=416",
+      "alt": "Devil's Mushroom",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png",
+      "filename": "iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png?v=1762420936&width=416",
+      "alt": "Fire Warrior",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png",
+      "filename": "iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg?v=1762420936&width=416",
+      "alt": "Cyberhud",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg",
+      "filename": "iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/Phone_15_Pro_Champions.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/Phone_15_Pro_Champions.png?v=1750964635&width=416",
+      "alt": "Champions",
+      "title": "",
+      "filepath": "scraped_images/Phone_15_Pro_Champions.png",
+      "filename": "Phone_15_Pro_Champions.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png?v=1760618553",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png?v=1760618553&width=416",
+      "alt": "Boundless Blue",
+      "title": "",
+      "filepath": "scraped_images/iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png",
+      "filename": "iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-magma--back_1.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-magma--back_1.jpg?v=1762420936&width=416",
+      "alt": "Magma",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-magma--back_1.jpg",
+      "filename": "iphone-13-pro-max-magma--back_1.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg?v=1762420936&width=416",
+      "alt": "Chaos",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg",
+      "filename": "iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg?v=1762420936&width=416",
+      "alt": "Space Blueprint",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg",
+      "filename": "iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png?v=1762420936&width=416",
+      "alt": "Canopy Cascade",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png",
+      "filename": "iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg?v=1762420936&width=416",
+      "alt": "Cybermind",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg",
+      "filename": "iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg?v=1762420936&width=416",
+      "alt": "Concrete Rock",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg",
+      "filename": "iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png?v=1754470762&width=416",
+      "alt": "Cricket Crest",
+      "title": "",
+      "filepath": "scraped_images/iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png",
+      "filename": "iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png?v=1762420936&width=416",
+      "alt": "Cybernetic Charge",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png",
+      "filename": "iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/products/iphone-14-pro-purple-river--back.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/products/iphone-14-pro-purple-river--back.jpg?v=1762420936&width=416",
+      "alt": "Purple River",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-purple-river--back.jpg",
+      "filename": "iphone-14-pro-purple-river--back.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg?v=1762420936&width=416",
+      "alt": "Cultivate Kindnes",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg",
+      "filename": "iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGameboi.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGameboi.png?v=1762420936&width=416",
+      "alt": "Gameboi",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProGameboi.png",
+      "filename": "iPhone14ProGameboi.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp?v=1762420936&width=416",
+      "alt": "Lava Camo",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp",
+      "filename": "iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png?v=1762420936&width=416",
+      "alt": "Estuary",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png",
+      "filename": "iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Dancing_Wind.webp?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Dancing_Wind.webp?v=1762420936&width=416",
+      "alt": "Dancing Wind",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Dancing_Wind.webp",
+      "filename": "iPhone_14_Pro_Dancing_Wind.webp"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png?v=1762420936&width=416",
+      "alt": "Vector Velocity",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png",
+      "filename": "iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png?v=1762420936&width=416",
+      "alt": "Quantum Weave",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png",
+      "filename": "iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png?v=1762420936&width=416",
+      "alt": "Cyber Sapphire",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png",
+      "filename": "iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png?v=1762420936&width=416",
+      "alt": "Vacation",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png",
+      "filename": "iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png?v=1762420936&width=416",
+      "alt": "Untethered",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png",
+      "filename": "iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg?v=1762420936&width=416",
+      "alt": "Before Sunset",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg",
+      "filename": "iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg?v=1762420936&width=416",
+      "alt": "Shikara",
+      "title": "",
+      "filepath": "scraped_images/iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg",
+      "filename": "iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/products/iPhone_14_Pro_Mountain_Pulse.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/products/iPhone_14_Pro_Mountain_Pulse.jpg?v=1762420936&width=416",
+      "alt": "Mountain Pulse",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Mountain_Pulse.jpg",
+      "filename": "iPhone_14_Pro_Mountain_Pulse.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProShutterbug.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProShutterbug.png?v=1762420936&width=416",
+      "alt": "Shutter bug",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProShutterbug.png",
+      "filename": "iPhone14ProShutterbug.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProSickBeat.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProSickBeat.png?v=1762420936&width=416",
+      "alt": "Sick Beat",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProSickBeat.png",
+      "filename": "iPhone14ProSickBeat.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProEyeoftheSun.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProEyeoftheSun.png?v=1762420936&width=416",
+      "alt": "Eye of the Sun",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProEyeoftheSun.png",
+      "filename": "iPhone14ProEyeoftheSun.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGhosted.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGhosted.png?v=1762420936&width=416",
+      "alt": "Ghosted",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProGhosted.png",
+      "filename": "iPhone14ProGhosted.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProBaadshah.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProBaadshah.png?v=1762420936&width=416",
+      "alt": "Baadshah",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProBaadshah.png",
+      "filename": "iPhone14ProBaadshah.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg?v=1762420936&width=416",
+      "alt": "Forest's Whisper",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg",
+      "filename": "iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg?v=1762420936&width=416",
+      "alt": "Machina Hud",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg",
+      "filename": "iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProHudOG.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProHudOG.png?v=1762420936&width=416",
+      "alt": "HudOG",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProHudOG.png",
+      "filename": "iPhone14ProHudOG.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Lilac_Trip_dbee0ce1-d1f6-4945-a504-387ca4995aeb.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Espresso_Bloom_1fe893e1-d179-4861-91ca-47bb18d2669d.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Mint_Breeze_4b37d6eb-be0f-45e6-9e07-5d0c34e7a3c4.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Coastal_Mode_40e4603d-c2f1-434a-a80f-975ad7c34ea3.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Split_core_c2b8da0d-ce04-4f9f-a003-40bcb2db6043.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Candy_Console.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Candy_Console.png?v=1750964635",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Candy_Console.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Candy_Console.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Candy_Console.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Candy_Console.png?v=1750964635",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Candy_Console.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Candy_Console.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png",
+      "filename": "iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png",
+      "filename": "iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png?v=1762419900",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png?v=1762419900",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png?v=1762419900",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png?v=1762419900",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Heat_sink_09760ede-f285-48e6-a183-8757ec837385.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Aqua_Bolt_f1de91d6-0bc2-4119-9e95-afb713e80811.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png?v=1750964635",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png?v=1750964635",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Frost_Rover_4c2a298a-9093-41fe-bffa-f41a94a34cb6.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover.png?v=1750964635",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Frost_Rover.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Frost_Rover.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Frost_Rover.png?v=1750964635",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Frost_Rover.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Frost_Rover.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Flashlane_d539a74e-504c-4031-bf1f-845204d49869.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png?v=1760618568",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png?v=1760618568",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png?v=1760618568",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png?v=1760618568",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Vibe_vortex_abf0679e-83b1-4662-9c9f-cd6d64577810.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Chaotic_Hour_ab8adb0f-4c72-4cdc-82f0-0bb13916d476.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png?v=1754470762",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png",
+      "filename": "iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png?v=1754470762",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png",
+      "filename": "iPhone_14_Pro_Urban_Mirage_4f64b399-c963-4bd0-ae22-4fa04205cd04.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Redline_Racer.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Redline_Racer.png?v=1750964635",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Redline_Racer.png",
+      "filename": "iPhone_14_Pro_Redline_Racer.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Redline_Racer.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Redline_Racer.png?v=1750964635",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Redline_Racer.png",
+      "filename": "iPhone_14_Pro_Redline_Racer.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png",
+      "filename": "iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png",
+      "filename": "iPhone_14_Pro_Celestial_Tide_3ad3c8d3-1ca4-4638-9e17-d9096b2e6318.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png",
+      "filename": "iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png",
+      "filename": "iPhone_14_Pro_Max_Molten_Silver_ac025778-bd09-4cf4-ab46-f813d9dbb175.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png",
+      "filename": "iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png",
+      "filename": "iPhone_14_Pro_Max_Ringstrom_5684b8ed-21fd-4920-a723-f08ac3aa1e42.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png?v=1754470762",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png",
+      "filename": "iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png?v=1754470762",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png",
+      "filename": "iPhone_14_Pro_Rouge_Rider_be123e2c-f529-4da8-a08a-378e8e1aceee.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png?v=1760618568",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png?v=1760618568",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png",
+      "filename": "iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png?v=1760618568",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png?v=1760618568",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png",
+      "filename": "iPhone_14_Pro_Max_Cosmic_Warrior_6c24c7ab-1c34-4a8e-8440-6148b65c4b59.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png",
+      "filename": "iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png",
+      "filename": "iPhone_14_Pro_Max_Deviles_Mushroom_51dc11a9-645d-4f56-be60-3669411a5b79.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png",
+      "filename": "iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png",
+      "filename": "iPhone_14_Pro_Fire_Warrior_00537b35-7bef-45e1-ac41-a2107cdee632.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg",
+      "filename": "iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg",
+      "filename": "iphone-14-pro-cyberhud--back_d8c03bd6-c374-44a3-9eb0-a2c232cbf0f6.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/Phone_15_Pro_Champions.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/Phone_15_Pro_Champions.png?v=1750964635",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/Phone_15_Pro_Champions.png",
+      "filename": "Phone_15_Pro_Champions.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/Phone_15_Pro_Champions.png?v=1750964635",
+      "original_url": "https://www.layers.shop/cdn/shop/files/Phone_15_Pro_Champions.png?v=1750964635",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/Phone_15_Pro_Champions.png",
+      "filename": "Phone_15_Pro_Champions.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png?v=1760618553",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png?v=1760618553",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png",
+      "filename": "iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png?v=1760618553",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png?v=1760618553",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png",
+      "filename": "iPhone_16_Pro_Boundless_Blue_47e7b865-ff90-42ed-b499-8d862410fec9.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-magma--back_1.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-magma--back_1.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-magma--back_1.jpg",
+      "filename": "iphone-13-pro-max-magma--back_1.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-magma--back_1.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-magma--back_1.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-magma--back_1.jpg",
+      "filename": "iphone-13-pro-max-magma--back_1.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg",
+      "filename": "iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg",
+      "filename": "iphone-13-pro-max-chaos--back_2b052614-8606-4dfe-ac70-de42e13fa6b6.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg",
+      "filename": "iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg",
+      "filename": "iphone-13-pro-max-space-blueprint--back_c257545d-0af3-41ed-8510-b4176c494156.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png",
+      "filename": "iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png",
+      "filename": "iPhone_14_Pro_Canopy_Cascade_3317a0ed-4eaa-47bb-9ca3-e4e05f9e5597.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg",
+      "filename": "iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg",
+      "filename": "iphone-13-pro-max-cybermind--back_9301ce66-3df6-41a0-86da-66d2ef7abfb1.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg",
+      "filename": "iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg",
+      "filename": "iphone-13-pro-max-concrete-rock--back_2b2e4774-15bd-41f7-90c3-375aedd59160.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png?v=1754470762",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png",
+      "filename": "iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png?v=1754470762",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png?v=1754470762",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png",
+      "filename": "iPhone_16_Pro_Cricket_Crest_6b39c347-80e2-436b-b737-79f81f407042.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png",
+      "filename": "iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png",
+      "filename": "iPhone_14_Pro_Cybernetic_Charge_d965c057-62c5-4b7a-bb3b-d7369a35ca29.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/products/iphone-14-pro-purple-river--back.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/products/iphone-14-pro-purple-river--back.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-purple-river--back.jpg",
+      "filename": "iphone-14-pro-purple-river--back.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/products/iphone-14-pro-purple-river--back.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/products/iphone-14-pro-purple-river--back.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-purple-river--back.jpg",
+      "filename": "iphone-14-pro-purple-river--back.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg",
+      "filename": "iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg",
+      "filename": "iphone-14-pro-cultivate-kindness--back_96249341-6243-4b1a-a1ac-2cb7ddaa4498.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGameboi.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGameboi.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProGameboi.png",
+      "filename": "iPhone14ProGameboi.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGameboi.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGameboi.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProGameboi.png",
+      "filename": "iPhone14ProGameboi.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp",
+      "filename": "iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp",
+      "filename": "iPhone_14_Pro_Black_Lava_Camo_8d8c3391-ca94-4d83-a6f4-f7cbf77b5f54.webp"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png",
+      "filename": "iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png",
+      "filename": "iPhone_14_Pro_Max_Estuary_03a2ccd2-0557-4469-a39d-ac983c07894b.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Dancing_Wind.webp?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Dancing_Wind.webp?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Dancing_Wind.webp",
+      "filename": "iPhone_14_Pro_Dancing_Wind.webp"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Dancing_Wind.webp?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Dancing_Wind.webp?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Dancing_Wind.webp",
+      "filename": "iPhone_14_Pro_Dancing_Wind.webp"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png",
+      "filename": "iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png",
+      "filename": "iPhone_14_Pro_Vector_Velocity_564b97a4-0cd7-4a0d-8a62-f6eaae5b2e1c.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png",
+      "filename": "iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png",
+      "filename": "iPhone_14_Pro_Quantum_Weave_8c7fa6d8-aadb-418d-8626-54c4640545ce.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png",
+      "filename": "iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png",
+      "filename": "iPhone_14_Pro_Cyber_Sapphire_8a6aa253-e7e5-4721-bc8c-5857f83087eb.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png",
+      "filename": "iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png",
+      "filename": "iPhone_14_Pro_Vacation_a9b1d3ff-b299-4a2f-b7e8-a812e03b0995.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png",
+      "filename": "iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png",
+      "filename": "iPhone_14_Pro_Max_Untethered_3ca7aeea-1d92-4458-a511-9c771d3c6c49.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg",
+      "filename": "iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg",
+      "filename": "iphone-14-pro-before-sunset--back_4880d772-3881-4f76-8df1-9a8d51a245dc.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg",
+      "filename": "iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg",
+      "filename": "iPhone_15_Pro_Shikara_ccc8ba88-26f7-46c6-8d49-cdc4ae097315.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/products/iPhone_14_Pro_Mountain_Pulse.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/products/iPhone_14_Pro_Mountain_Pulse.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Mountain_Pulse.jpg",
+      "filename": "iPhone_14_Pro_Mountain_Pulse.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/products/iPhone_14_Pro_Mountain_Pulse.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/products/iPhone_14_Pro_Mountain_Pulse.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Mountain_Pulse.jpg",
+      "filename": "iPhone_14_Pro_Mountain_Pulse.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProShutterbug.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProShutterbug.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProShutterbug.png",
+      "filename": "iPhone14ProShutterbug.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProShutterbug.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProShutterbug.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProShutterbug.png",
+      "filename": "iPhone14ProShutterbug.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProSickBeat.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProSickBeat.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProSickBeat.png",
+      "filename": "iPhone14ProSickBeat.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProSickBeat.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProSickBeat.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProSickBeat.png",
+      "filename": "iPhone14ProSickBeat.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProEyeoftheSun.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProEyeoftheSun.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProEyeoftheSun.png",
+      "filename": "iPhone14ProEyeoftheSun.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProEyeoftheSun.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProEyeoftheSun.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProEyeoftheSun.png",
+      "filename": "iPhone14ProEyeoftheSun.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGhosted.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGhosted.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProGhosted.png",
+      "filename": "iPhone14ProGhosted.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGhosted.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProGhosted.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProGhosted.png",
+      "filename": "iPhone14ProGhosted.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProBaadshah.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProBaadshah.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProBaadshah.png",
+      "filename": "iPhone14ProBaadshah.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProBaadshah.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProBaadshah.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProBaadshah.png",
+      "filename": "iPhone14ProBaadshah.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg",
+      "filename": "iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg",
+      "filename": "iPhone_14_Pro_Forest_s_Whisper_afd1fb4e-d9e7-42a8-b9f2-c3e6d7343c45.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg",
+      "filename": "iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg",
+      "filename": "iphone-13-pro-machina-hud--back_b0f12c39-2945-4649-8530-222a2c12198a.jpg"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProHudOG.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProHudOG.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProHudOG.png",
+      "filename": "iPhone14ProHudOG.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone14ProHudOG.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone14ProHudOG.png?v=1762420936",
+      "alt": "image loading",
+      "title": "",
+      "filepath": "scraped_images/iPhone14ProHudOG.png",
+      "filename": "iPhone14ProHudOG.png"
+    },
+    {
+      "url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png?v=1762420936",
+      "original_url": "https://www.layers.shop/cdn/shop/files/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png?v=1762420936",
+      "alt": "Latte Bloom",
+      "title": "",
+      "filepath": "scraped_images/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png",
+      "filename": "iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png"
+    }
+  ]
+}
