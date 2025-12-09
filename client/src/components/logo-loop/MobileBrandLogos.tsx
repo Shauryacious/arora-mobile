@@ -19,11 +19,11 @@ const LogoWithFallback = ({ item }: { item: LogoItem }) => {
         case 'Oppo':
           return { fontFamily: "'Poppins', sans-serif", fontWeight: 600 };
         case 'Vivo':
-          return { fontFamily: "'Roboto', sans-serif", fontWeight: 500 };
+          return { fontFamily: "'Poppins', sans-serif", fontWeight: 500 };
         case 'Realme':
-          return { fontFamily: "'Montserrat', sans-serif", fontWeight: 600 };
+          return { fontFamily: "'Poppins', sans-serif", fontWeight: 600 };
         default:
-          return {};
+          return { fontFamily: "'Poppins', sans-serif" };
       }
     };
     
@@ -108,7 +108,7 @@ const mobileBrandLogos: LogoItem[] = [
     node: (
       <span 
         className="text-white font-bold text-2xl"
-        style={{ fontFamily: "'Roboto', sans-serif", fontWeight: 800 }}
+        style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 800 }}
       >
         Vivo
       </span>
@@ -127,8 +127,8 @@ const mobileBrandLogos: LogoItem[] = [
   {
     node: (
       <span 
-        className="text-white font-bold text-2xl"
-        style={{ fontFamily: "'Montserrat', sans-serif", fontWeight: 800 }}
+        className="text-white font-light text-2xl"
+        style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 800 }}
       >
         Realme
       </span>
@@ -166,24 +166,39 @@ const mobileBrandLogos: LogoItem[] = [
   },
 ];
 
+import { AnimatedContainer, fadeIn, ANIMATION_CONFIG } from '@/components/animations'
+
 export function MobileBrandLogoLoop() {
   return (
     <div className="relative w-full py-16 bg-black">
-      <LogoLoop
-        logos={mobileBrandLogos}
-        speed={80}
-        direction="left"
-        logoHeight={48}
-        gap={48}
-        pauseOnHover
-        hoverSpeed={0}
-        scaleOnHover
-        fadeOut
-        fadeOutColor="#000000"
-        ariaLabel="Popular mobile brands"
-        className="h-[120px]"
-        renderItem={(item) => <LogoWithFallback item={item} />}
-      />
+      <AnimatedContainer direction="up" className="text-center mb-12 px-4">
+        <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-4 leading-tight">
+          <span className="bg-gradient-to-r from-white via-gray-200 to-white bg-clip-text text-transparent">
+          Available Brands
+          </span>
+        </h2>
+      </AnimatedContainer>
+      <AnimatedContainer 
+        variants={fadeIn} 
+        delay={0.3}
+        duration={ANIMATION_CONFIG.duration.slow}
+      >
+        <LogoLoop
+          logos={mobileBrandLogos}
+          speed={80}
+          direction="left"
+          logoHeight={48}
+          gap={48}
+          pauseOnHover
+          hoverSpeed={0}
+          scaleOnHover
+          fadeOut
+          fadeOutColor="#000000"
+          ariaLabel="Popular mobile brands"
+          className="h-[120px]"
+          renderItem={(item) => <LogoWithFallback item={item} />}
+        />
+      </AnimatedContainer>
     </div>
   );
 }

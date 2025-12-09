@@ -54,7 +54,7 @@ export const MenuItem = ({
               <motion.div
                 transition={transition}
                 layoutId="active" // layoutId ensures smooth animation
-                className="bg-white dark:bg-black backdrop-blur-sm rounded-2xl overflow-hidden border border-black/[0.2] dark:border-white/[0.2] shadow-xl"
+                className="bg-black backdrop-blur-sm rounded-2xl overflow-hidden border border-white/20 shadow-xl"
               >
                 <motion.div
                   layout // layout ensures smooth animation
@@ -79,9 +79,9 @@ export const Menu = ({
   children: React.ReactNode;
 }) => {
   return (
-    <nav
+      <nav
       onMouseLeave={() => setActive(null)} // resets the state
-      className="relative rounded-full border-none shadow-none dark:border-white/[0.9] bg-[rgba(0,0,0,0.8)] flex justify-center space-x-4 px-8 py-6"
+      className="relative rounded-full border-none shadow-none border-white/20 bg-black/80 flex justify-center space-x-4 px-8 py-6"
     >
       {children}
     </nav>
@@ -111,10 +111,10 @@ export const ProductItem = ({
         />
       )}
       <div>
-        <h4 className="text-xl font-bold mb-1 text-black dark:text-white">
+        <h4 className="text-xl font-bold mb-1 text-white">
           {title}
         </h4>
-        <p className="text-neutral-700 text-sm max-w-[10rem] dark:text-neutral-300">
+        <p className="text-gray-300 text-sm max-w-[10rem]">
           {description}
         </p>
       </div>
@@ -136,7 +136,7 @@ export const HoveredLink = ({
   return (
     <Link
       to={to}
-      className={cn("text-neutral-700 dark:text-neutral-200 hover:text-black", className)}
+      className={cn("text-gray-300 hover:text-white", className)}
       {...rest}
     >
       {children}
