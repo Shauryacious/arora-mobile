@@ -69,7 +69,7 @@ export default function Cart() {
                     <p className="text-xs sm:text-sm text-gray-300 mb-2">
                       {item.brand} • {item.model}
                     </p>
-                    <p className="text-base sm:text-lg font-bold text-white">${item.price.toFixed(2)}</p>
+                    <p className="text-base sm:text-lg font-bold text-white">₹{item.price}</p>
                   </div>
                   <div className="flex flex-col items-end justify-between gap-2">
                     <Button
@@ -123,7 +123,7 @@ export default function Cart() {
               <div className="space-y-2">
                 <div className="flex justify-between text-sm sm:text-base">
                   <span className="text-gray-300">Subtotal</span>
-                  <span className="text-white font-medium">${total.toFixed(2)}</span>
+                  <span className="text-white font-medium">₹{total}</span>
                 </div>
                 <div className="flex justify-between text-sm sm:text-base">
                   <span className="text-gray-300">Shipping</span>
@@ -132,7 +132,7 @@ export default function Cart() {
                 <Separator className="bg-white/10" />
                 <div className="flex justify-between font-semibold text-base sm:text-lg">
                   <span className="text-white">Total</span>
-                  <span className="text-white">${total.toFixed(2)}</span>
+                  <span className="text-white">₹{total}</span>
                 </div>
               </div>
               <Button asChild className="w-full text-sm sm:text-base h-11 sm:h-12 touch-manipulation" size="lg">

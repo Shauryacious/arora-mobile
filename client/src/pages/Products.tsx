@@ -1,4 +1,4 @@
-import { useMemo, useState, useEffect } from 'react'
+import { useMemo, useState, useEffect, useRef } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
@@ -157,6 +157,8 @@ export default function Products() {
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null)
   const [selectedImage, setSelectedImage] = useState(0)
   const [mobileSheetOpen, setMobileSheetOpen] = useState(false)
+  const leftPanelRef = useRef<HTMLDivElement>(null)
+  const rightPanelRef = useRef<HTMLDivElement>(null)
   
   // Derive state directly from URL params (single source of truth)
   const selectedBrand = searchParams.get('brand') || undefined
@@ -213,6 +215,31 @@ export default function Products() {
   useEffect(() => {
     setSelectedImage(0)
   }, [selectedProduct?.id])
+
+  // Match left panel height to right panel height
+  useEffect(() => {
+    const updateLeftPanelHeight = () => {
+      if (leftPanelRef.current && rightPanelRef.current && window.innerWidth >= 1024) {
+        const rightHeight = rightPanelRef.current.offsetHeight
+        leftPanelRef.current.style.height = `${rightHeight}px`
+      } else if (leftPanelRef.current && window.innerWidth < 1024) {
+        leftPanelRef.current.style.height = 'auto'
+      }
+    }
+
+    updateLeftPanelHeight()
+    
+    // Update on window resize
+    window.addEventListener('resize', updateLeftPanelHeight)
+    
+    // Update when product changes (right panel content changes)
+    const timeoutId = setTimeout(updateLeftPanelHeight, 100)
+    
+    return () => {
+      window.removeEventListener('resize', updateLeftPanelHeight)
+      clearTimeout(timeoutId)
+    }
+  }, [selectedProduct, selectedImage])
 
   const handleProductSelect = (product: Product) => {
     setSelectedProduct(product)
@@ -392,7 +419,7 @@ export default function Products() {
       {/* Main Content - Split View */}
       <div className="flex flex-col lg:flex-row lg:items-start">
         {/* Left Side - Product List */}
-        <div className="w-full lg:w-1/2 lg:sticky lg:top-0 lg:h-screen border-r border-white/10 overflow-y-auto lg:overflow-y-auto">
+        <div ref={leftPanelRef} className="w-full lg:w-1/2 border-r border-white/10 lg:overflow-y-auto">
           <div className="container py-4 sm:py-6 px-3 sm:px-4">
 
       {/* Products Grid */}
@@ -426,7 +453,7 @@ export default function Products() {
           <StaggerContainer
             staggerDelay={ANIMATION_CONFIG.stagger.fast}
             delayChildren={0.1}
-            className="grid gap-4 sm:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3"
+            className="grid gap-4 sm:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-4"
           >
             {filteredProducts.map((product) => (
               <AnimatedItem
@@ -461,11 +488,6 @@ export default function Products() {
                   <div className="flex items-start justify-between gap-2">
                     <CardTitle className="line-clamp-2 text-base sm:text-lg leading-tight text-white">{product.name}</CardTitle>
                   </div>
-                  <CardDescription className="flex items-center gap-2 flex-wrap">
-                    <Badge variant="outline" className="text-xs border-white/20 text-gray-300">{product.brand}</Badge>
-                    <span className="text-xs text-gray-400">•</span>
-                    <span className="text-xs text-gray-300">{product.model}</span>
-                  </CardDescription>
                 </CardHeader>
               </Card>
               </AnimatedItem>
@@ -477,7 +499,7 @@ export default function Products() {
         </div>
 
         {/* Right Side - Product Detail (Desktop) */}
-        <div className="hidden lg:flex lg:w-1/2 bg-black/30">
+        <div ref={rightPanelRef} className="hidden lg:flex lg:w-1/2 bg-black/30">
           <div className="w-full py-6 px-6 sm:px-8 flex flex-col">
             {selectedProduct ? (
               <AnimatePresence mode="wait">

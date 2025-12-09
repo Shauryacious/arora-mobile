@@ -106,33 +106,33 @@ export default function Checkout() {
               <div className="grid gap-4 grid-cols-1 sm:grid-cols-2">
                 <div className="space-y-2">
                   <Label htmlFor="firstName" className="text-sm sm:text-base text-white">First Name</Label>
-                  <Input id="firstName" placeholder="John" className="h-11 sm:h-12 text-base touch-manipulation" />
+                  <Input id="firstName" placeholder="Rahul" className="h-11 sm:h-12 text-base touch-manipulation" />
                 </div>
                 <div className="space-y-2">
                   <Label htmlFor="lastName" className="text-sm sm:text-base text-white">Last Name</Label>
-                  <Input id="lastName" placeholder="Doe" className="h-11 sm:h-12 text-base touch-manipulation" />
+                  <Input id="lastName" placeholder="Sharma" className="h-11 sm:h-12 text-base touch-manipulation" />
                 </div>
               </div>
               <div className="space-y-2">
                 <Label htmlFor="email" className="text-sm sm:text-base text-white">Email</Label>
-                <Input id="email" type="email" placeholder="john@example.com" className="h-11 sm:h-12 text-base touch-manipulation" />
+                <Input id="email" type="email" placeholder="rahul.sharma@example.com" className="h-11 sm:h-12 text-base touch-manipulation" />
               </div>
               <div className="space-y-2">
                 <Label htmlFor="address" className="text-sm sm:text-base text-white">Address</Label>
-                <Input id="address" placeholder="123 Main St" className="h-11 sm:h-12 text-base touch-manipulation" />
+                <Input id="address" placeholder="House No. 123, Street Name, Area" className="h-11 sm:h-12 text-base touch-manipulation" />
               </div>
               <div className="grid gap-4 grid-cols-1 sm:grid-cols-3">
                 <div className="space-y-2">
                   <Label htmlFor="city" className="text-sm sm:text-base text-white">City</Label>
-                  <Input id="city" placeholder="New York" className="h-11 sm:h-12 text-base touch-manipulation" />
+                  <Input id="city" placeholder="Mumbai" className="h-11 sm:h-12 text-base touch-manipulation" />
                 </div>
                 <div className="space-y-2">
                   <Label htmlFor="state" className="text-sm sm:text-base text-white">State</Label>
-                  <Input id="state" placeholder="NY" className="h-11 sm:h-12 text-base touch-manipulation" />
+                  <Input id="state" placeholder="Maharashtra" className="h-11 sm:h-12 text-base touch-manipulation" />
                 </div>
                 <div className="space-y-2">
-                  <Label htmlFor="zip" className="text-sm sm:text-base text-white">ZIP</Label>
-                  <Input id="zip" placeholder="10001" className="h-11 sm:h-12 text-base touch-manipulation" />
+                  <Label htmlFor="zip" className="text-sm sm:text-base text-white">PIN Code</Label>
+                  <Input id="zip" placeholder="400001" className="h-11 sm:h-12 text-base touch-manipulation" />
                 </div>
               </div>
             </CardContent>
@@ -156,14 +156,14 @@ export default function Checkout() {
                     <span className="text-gray-300 line-clamp-1 pr-2">
                       {item.name} × {item.quantity}
                     </span>
-                    <span className="text-white font-medium flex-shrink-0">${(item.price * item.quantity).toFixed(2)}</span>
+                    <span className="text-white font-medium flex-shrink-0">₹{item.price * item.quantity}</span>
                   </div>
                 ))}
               </div>
               <Separator className="bg-white/10" />
               <div className="flex justify-between font-semibold text-base sm:text-lg">
                 <span className="text-white">Total</span>
-                <span className="text-white">${total.toFixed(2)}</span>
+                <span className="text-white">₹{total}</span>
               </div>
               <Button
                 className="w-full text-sm sm:text-base h-11 sm:h-12 touch-manipulation"

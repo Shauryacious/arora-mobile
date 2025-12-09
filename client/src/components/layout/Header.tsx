@@ -56,22 +56,22 @@ export default function Header() {
           <SearchBar />
         </div>
         
-        <div className="flex items-center gap-1.5 sm:gap-2 md:gap-3 flex-shrink-0">
+        <div className="flex items-center gap-1 sm:gap-1.5 md:gap-2 flex-shrink-0">
           <Button 
             variant="ghost" 
             size="icon"
-            className="h-10 w-10 sm:h-11 sm:w-11 md:h-12 md:w-12 hover:bg-white/10 text-white touch-manipulation"
+            className="h-auto w-auto p-1 sm:p-1.5 md:p-2 hover:bg-white/10 text-white touch-manipulation"
             onClick={() => setLoginModalOpen(true)}
           >
-            <User className="h-5 w-5 sm:h-5 sm:w-5 md:h-6 md:w-6" />
+            <User className="h-16 w-16 sm:h-20 sm:w-20 md:h-24 md:w-24" />
           </Button>
           <Link to={ROUTES.CART} className="relative">
             <Button 
               variant="ghost" 
               size="icon"
-              className="relative h-10 w-10 sm:h-11 sm:w-11 md:h-12 md:w-12 hover:bg-white/10 text-white touch-manipulation"
+              className="relative h-auto w-auto p-1 sm:p-1.5 md:p-2 hover:bg-white/10 text-white touch-manipulation"
             >
-              <ShoppingCart className="h-5 w-5 sm:h-5 sm:w-5 md:h-6 md:w-6" />
+              <ShoppingCart className="h-16 w-16 sm:h-20 sm:w-20 md:h-24 md:w-24" />
               <AnimatePresence>
                 {itemCount > 0 && (
                   <motion.div

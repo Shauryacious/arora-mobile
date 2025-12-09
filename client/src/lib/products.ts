@@ -282,7 +282,7 @@ export async function loadProductsFromMetadata(): Promise<Product[]> {
           id: generateId(image.filename),
           name,
           description: `Premium ${brand === 'apple' ? 'iPhone' : brand} skin with ${name} design. High-quality materials and precision fit.`,
-          price: 29.99, // Default price
+          price: 499, // Default price
           image: imagePath,
           images: [imagePath],
           brand,
